@@ -1,0 +1,6 @@
+C:\Users\Tomek\source\repos\CompressioLibrary\CompressioLibrary\obj\Debug\CompressionLibrary.csprojAssemblyReference.cache
+C:\Users\Tomek\source\repos\CompressioLibrary\CompressioLibrary\obj\Debug\CompressionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\CompressioLibrary\CompressioLibrary\bin\Debug\CompressioLibrary.dll
+C:\Users\Tomek\source\repos\CompressioLibrary\CompressioLibrary\bin\Debug\CompressioLibrary.pdb
+C:\Users\Tomek\source\repos\CompressioLibrary\CompressioLibrary\obj\Debug\CompressioLibrary.dll
+C:\Users\Tomek\source\repos\CompressioLibrary\CompressioLibrary\obj\Debug\CompressioLibrary.pdb
